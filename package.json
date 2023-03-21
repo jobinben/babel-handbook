@@ -1,0 +1,23 @@
+{
+  "name": "babel-handbook",
+  "version": "1.0.0",
+  "description": "babel的学习手册",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobinben/babel-handbook.git"
+  },
+  "author": "Jobin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobinben/babel-handbook/issues"
+  },
+  "homepage": "https://github.com/jobinben/babel-handbook#readme",
+  "dependencies": {
+    "babylon": "^6.18.0"
+  }
+}
